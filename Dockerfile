@@ -1,4 +1,4 @@
-FROM dvmarques/openjdk-17-jdk-alpine-with-timezone:latest
+FROM eclipse-temurin:17-jdk-alpine-3.21
 
 WORKDIR /app
 
